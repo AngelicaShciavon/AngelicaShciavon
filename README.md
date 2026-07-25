@@ -24,31 +24,19 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 
 # 🧪 Áreas de atuação
 
-✔ Testes Manuais
+✔ Testes Manuais                    ✔ Testes Funcionais
 
-✔ Testes Funcionais
+✔ Testes Exploratórios              ✔ Azure DevOps
 
-✔ Testes Exploratórios
+✔ Testes de Regressão               ✔ Evidências de Teste
 
-✔ Testes de Regressão
+✔ Testes de Interface (UI)          ✔ Planos de Teste
 
-✔ Testes de Interface (UI)
+✔ Testes de Usabilidade             ✔ Cenários de Teste
 
-✔ Testes de Usabilidade
-
-✔ Validação de Regras de Negócio
+✔ Validação de Regras de Negócio    ✔ Casos de Teste
 
 ✔ Registro de Bugs
-
-✔ Casos de Teste
-
-✔ Cenários de Teste
-
-✔ Planos de Teste
-
-✔ Evidências de Teste
-
-✔ Azure DevOps
 
 ---
 
@@ -79,34 +67,22 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ---
 
 # 🛠 Ferramentas
-
-- Azure DevOps
-- Azure Test Plans
-- Cypress
-- Playwright
-- MySQL Workbench
-- Git
-- GitHub
-- Visual Studio Code
-
+- Azure DevOps             - Visual Studio Code         
+- Azure Test Plans         - GitHub
+- Cypress                  - Git
+- Playwright               - MySQL Workbench
 ---
 
 # 📚 Atualmente estudando
-
-- Cypress
-- Playwright
-- JavaScript
+- Cypress           - GitHub Actions
+- Playwright        - Banco de Dados Relacional
+- JavaScript        - SQL
 - TypeScript
-- SQL
-- Banco de Dados Relacional
-- GitHub Actions
-
 ---
 
 # 📂 Projetos
 
 ## 🧪 Testes Manuais
-
 - Casos de Teste
 - Cenários de Teste
 - Plano de Testes
@@ -116,14 +92,13 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ---
 
 ## 🤖 Automação
-
 - Cypress
 - Playwright
+- RobotFramework
 
 ---
 
 ## 💻 Desenvolvimento
-
 - HTML
 - CSS
 - JavaScript
@@ -133,30 +108,22 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ---
 
 ## 🗄 Banco de Dados
-
-- Modelagem
-- SQL
-- MySQL
-
+### Relacionais         ### NoSQL
+- MySQL                 - MongoDB
+- MariaDB               - Firebase Firestore
+- PostgreSQL            - Redis
+- SQL Server
+- Oracle Database
+- SQLite
 ---
-
-# 📈 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AngelicaShciavon&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaShciavon&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AngelicaShciavon&theme=tokyonight&margin-w=10)
-
----
+### Conhecimentos
+- Modelagem de Banco de Dados               - Índices
+- Modelo Entidade-Relacionamento (MER)      - Procedures
+- Modelo Relacional                         - Chaves Primárias e Estrangeiras
+- SQL                                       - Relacionamentos (1:1, 1:N e N:N)
+- DDL                                       - MySQL Workbench
+- DML                                       - Views
+- DQL                                       - Joins
 
 # 📊 Sequência de contribuições
 
@@ -166,11 +133,11 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 
 # 📫 Vamos nos conectar?
 
-<a href="COLE_AQUI_SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/ang%C3%A9lica-schiavon-barbosa-27755b106/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:angelicaschiavonbarbosa@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
