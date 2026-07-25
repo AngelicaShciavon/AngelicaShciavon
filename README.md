@@ -108,22 +108,17 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ---
 
 ## 🗄 Banco de Dados
-### Relacionais         ### NoSQL
-- MySQL                 - MongoDB
-- MariaDB               - Firebase Firestore
-- PostgreSQL            - Redis
-- SQL Server
-- Oracle Database
-- SQLite
----
-### Conhecimentos
-- Modelagem de Banco de Dados               - Índices
-- Modelo Entidade-Relacionamento (MER)      - Procedures
-- Modelo Relacional                         - Chaves Primárias e Estrangeiras
-- SQL                                       - Relacionamentos (1:1, 1:N e N:N)
-- DDL                                       - MySQL Workbench
-- DML                                       - Views
-- DQL                                       - Joins
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Relacionais** | MySQL • PostgreSQL • SQL Server • Oracle Database • MariaDB • SQLite |
+| **NoSQL** | MongoDB • Firebase Firestore • Redis |
+| **Linguagem** | SQL (DDL, DML, DQL) |
+| **Modelagem** | MER • Modelo Relacional • Normalização |
+| **Consultas** | SELECT • JOIN • GROUP BY • ORDER BY • HAVING |
+| **Objetos** | Views • Índices • Procedures • Triggers |
+| **Ferramentas** | MySQL Workbench |
+| **Conceitos** | Integridade Referencial • Chaves Primárias e Estrangeiras • Relacionamentos (1:1, 1:N e N:N) |
 
 # 📊 Sequência de contribuições
 
