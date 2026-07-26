@@ -80,12 +80,16 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 
 | Projeto | Tecnologias | Link |
 |----------|-------------|------|
-| 🧪 Casos de Teste | Azure DevOps • QA | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
-| 🤖 Automação Cypress | Cypress • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
-| 🎭 Automação Playwright | Playwright • TypeScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
-| 🌐 Portfólio Web | HTML • CSS • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
-| 🗄 Banco de Dados | SQL • MySQL | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
-
+| 🌐 **Portfólio Pessoal** | HTML • CSS • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/portfolio) |
+| 🧪 **Web Testing (WebDojo)** | Cypress • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/webdojo) |
+| 🤖 **Cypress do Zero à Nuvem** | Cypress • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/cypress-do-zero-a-nuvem) |
+| 🤖 **Robot Framework - Seu Barriga** | Robot Framework | [Ver Projeto](https://github.com/AngelicaShciavon/seu-barriga-robo-framework) |
+| 📬 **Testes de API com Postman** | Postman • APIs REST | [Ver Projeto](https://github.com/AngelicaShciavon/tqc-academy-postman) |
+| 🗄️ **Sistema de Locadora** | SQL • MySQL • PostgreSQL | [Ver Projeto](https://github.com/AngelicaShciavon/locadora-PostgreSQL) |
+| 🍃 **Laboratório MongoDB** | MongoDB • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/laboratorio-aprendizagem-mongodb) |
+| 🗃️ **Projeto SQLite** | SQLite • SQL | [Ver Projeto](https://github.com/AngelicaShciavon/projeto-sqlite) |
+| 💊 **Banco de Dados Farmacêutico** | SQL • Modelagem de Dados | [Ver Projeto](https://github.com/AngelicaShciavon/banco-de-dados-farmaceutico) |
+| 🎭 **Playwright - Curso Básico** | Playwright • TypeScript | [Ver Projeto](https://github.com/AngelicaShciavon/curso-basico-dramaturgo-pub) |
 ---
 
 # 🤖 Automação de Testes
