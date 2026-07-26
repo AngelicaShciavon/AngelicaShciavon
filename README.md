@@ -36,17 +36,22 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ## 🚀 Tecnologias
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=css" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=git" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+### 🗄️ Bancos de Dados Relacionais
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" width="58" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="58" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" width="58" alt="MariaDB"/>
+</p>
+
+### 📦 Bancos de Dados NoSQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis" />
 </p>
 
 ---
