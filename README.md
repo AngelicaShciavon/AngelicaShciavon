@@ -33,28 +33,10 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
