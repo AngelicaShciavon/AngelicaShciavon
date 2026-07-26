@@ -60,43 +60,52 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ---
 
 # 🛠 Ferramentas
-- Azure DevOps             - Visual Studio Code         
-- Azure Test Plans         - GitHub
-- Cypress                  - Git
-- Playwright               - MySQL Workbench
+
+| Categoria | Ferramentas |
+|-----------|-------------|
+| 🧪 Gestão de Testes | Azure DevOps • Azure Test Plans |
+| 🤖 Automação | Cypress • Playwright • Robot Framework |
+| 💻 Desenvolvimento | Visual Studio Code |
+| 🗄 Banco de Dados | MySQL Workbench |
+| 🔧 Versionamento | Git • GitHub |
 ---
 
-# 📚 Atualmente estudando
-- Cypress           - GitHub Actions
-- Playwright        - Banco de Dados Relacional
-- JavaScript        - SQL
-- TypeScript
----
+# 📚 Atualmente Estudando
+
+| Área | Tecnologias |
+|------|-------------|
+| 🤖 Automação de Testes | Cypress • Playwright • Robot Framework |
+| 💻 Linguagens | JavaScript • TypeScript |
+| 🗄 Banco de Dados | SQL • Banco de Dados Relacional |
+| ⚙️ DevOps | GitHub Actions |
 
 # 📂 Projetos
 
-## 🧪 Testes Manuais
-- Casos de Teste
-- Cenários de Teste
-- Plano de Testes
-- Relatórios de Bugs
-- Evidências de Testes
+| Projeto | Tecnologias | Link |
+|----------|-------------|------|
+| 🧪 Casos de Teste | Azure DevOps • QA | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
+| 🤖 Automação Cypress | Cypress • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
+| 🎭 Automação Playwright | Playwright • TypeScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
+| 🌐 Portfólio Web | HTML • CSS • JavaScript | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
+| 🗄 Banco de Dados | SQL • MySQL | [Ver Projeto](https://github.com/AngelicaShciavon/nome-do-projeto) |
 
 ---
 
-## 🤖 Automação
-- Cypress
-- Playwright
-- RobotFramework
+# 🤖 Automação de Testes
 
+| Ferramenta | Finalidade |
+|------------|------------|
+| Cypress | Automação de testes Web End-to-End |
+| Playwright | Automação de testes Web (Cross-browser) |
+| Robot Framework | Automação de testes baseada em palavras-chave |
 ---
 
-## 💻 Desenvolvimento
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Node.js
+# 💻 Desenvolvimento
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| 🌐 Front-end | HTML5 • CSS3 • JavaScript • TypeScript |
+| ⚙️ Back-end | Node.js |
 
 ---
 
