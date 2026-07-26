@@ -36,7 +36,17 @@ Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, *
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
 </p>
 
 ---
