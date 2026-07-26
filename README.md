@@ -21,22 +21,15 @@ Tenho experiência na elaboração e execução de testes, documentação de fun
 Atualmente estou aprofundando meus conhecimentos em **Automação de Testes**, **JavaScript**, **TypeScript**, **Banco de Dados** e **Boas Práticas de Engenharia de Software**.
 
 ---
+## 🧪 Áreas de Atuação
 
-# 🧪 Áreas de atuação
-
-✔ Testes Manuais                    ✔ Testes Funcionais
-
-✔ Testes Exploratórios              ✔ Azure DevOps
-
-✔ Testes de Regressão               ✔ Evidências de Teste
-
-✔ Testes de Interface (UI)          ✔ Planos de Teste
-
-✔ Testes de Usabilidade             ✔ Cenários de Teste
-
-✔ Validação de Regras de Negócio    ✔ Casos de Teste
-
-✔ Registro de Bugs
+| Área | Tecnologias / Conhecimentos |
+|------|------------------------------|
+| 📝 Planejamento de Testes | Casos de Teste • Cenários de Teste • Planos de Teste |
+| 🔍 Execução de Testes | Testes Manuais • Testes Funcionais • Testes Exploratórios • Testes de Regressão |
+| 🖥️ Interface | Testes de Interface (UI) • Testes de Usabilidade |
+| 📋 Análise | Validação de Regras de Negócio • Registro de Bugs • Evidências de Teste |
+| 🛠️ Ferramentas | Azure DevOps |
 
 ---
 
